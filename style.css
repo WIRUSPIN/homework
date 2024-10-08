@@ -36,4 +36,5 @@ a[href*='hillel'] {
 
 .lorem {
   font-weight: bold;
+  color: rgb(250, 247, 247);
 }

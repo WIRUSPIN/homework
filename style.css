@@ -1,0 +1,35 @@
+p {
+  background-color: brown;
+}
+
+.text {
+  background-color: rgb(230, 0, 255);
+}
+
+.parent > .text-parent {
+  background-color: blanchedalmond;
+}
+
+#selector-id {
+  background-color: aquamarine;
+}
+
+#text-id.text-class {
+  background-color: rgb(0, 255, 170);
+}
+
+a[href*='Hillel'] {
+  background-color: rgb(255, 153, 0);
+  text-decoration: none;
+}
+
+.next .text1.p {
+  background-color: rgb(0, 149, 255);
+}
+
+.class-text {
+  background-color: rgb(0, 0, 0) 
+}
+.class-text {
+  background-color: rgb(255, 0, 0) !important;
+}

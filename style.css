@@ -18,7 +18,7 @@ p {
   background-color: rgb(0, 255, 170);
 }
 
-a[href*='Hillel'] {
+a[href*='hillel'] {
   background-color: rgb(255, 153, 0);
   text-decoration: none;
 }
@@ -32,4 +32,8 @@ a[href*='Hillel'] {
 }
 .class-text {
   background-color: rgb(255, 0, 0) !important;
+}
+
+.lorem {
+  font-weight: bold;
 }

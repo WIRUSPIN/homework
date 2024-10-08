@@ -38,4 +38,6 @@ a[href*='hillel'] {
   font-weight: bold;
   color: rgb(250, 247, 247);
 }
-
+body {
+  background-color: rgb(11, 115, 4);
+}
